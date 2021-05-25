@@ -1,4 +1,5 @@
 __author__="Alexey Antonenko, a.antonenko@aiby.com"
+
 import argparse
 import time
 import cv2
